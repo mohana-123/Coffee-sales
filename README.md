@@ -6,6 +6,7 @@ This project analyzes retail sales data for a coffee shop to uncover actionable 
 ---
 
 
+
 ### **Situation**
 The coffee shop owner wanted to understand sales patterns and customer behavior to optimize operations, improve revenue, and enhance customer satisfaction. The available data included transaction details such as sales revenue, time of purchase, product categories, store locations, and order details.
 
@@ -42,6 +43,7 @@ To address these questions, the following steps were taken:
 
 ---
 
+![image](https://github.com/user-attachments/assets/2805f3db-8730-4627-80da-61a2f9db5bd5)
 ### **Results**
 The analysis revealed the following insights:
 1. **Sales by Day and Hour**:
