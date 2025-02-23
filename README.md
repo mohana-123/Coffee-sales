@@ -58,6 +58,8 @@ The analysis revealed the following insights:
 5. **Product Category Performance**:
    - **Coffee** accounted for **39%** of total sales, followed by **Tea** at **28%**.
 
+![video](https://github.com/mohana-123/Coffee-sales/blob/main/Recording%202025-02-23%20111009.mp4)
+
 ---
 
 ## Key Recommendations
